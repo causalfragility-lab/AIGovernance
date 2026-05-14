@@ -1,0 +1,7 @@
+^data-raw$
+^LICENSE\.md$
+^\.Rbuildignore$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.positai$
+^\.claude$
