@@ -1,0 +1,20 @@
+# R project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R CMD check artefacts
+/*.Rcheck/
+*.tar.gz
+
+# devtools / pkgdown build output
+/doc/
+/Meta/
+/inst/doc/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
