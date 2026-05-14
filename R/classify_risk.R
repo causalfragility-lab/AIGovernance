@@ -25,7 +25,7 @@
 #'
 #' @references
 #' European Parliament and Council (2024). Regulation (EU) 2024/1689 (EU AI Act).
-#' \url{https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689}
+#' \doi{10.3000/1977091X.L_2024.1689.eng}
 #'
 #' NIST (2023). \emph{AI RMF 1.0}. \doi{10.6028/NIST.AI.100-1}
 #'

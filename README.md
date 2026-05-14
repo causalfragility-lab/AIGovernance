@@ -138,7 +138,7 @@ aigov_report(gov, format = "html")
 - NIST (2023). *AI Risk Management Framework (AI RMF 1.0)*.
   <https://doi.org/10.6028/NIST.AI.100-1>
 - European Parliament and Council (2024). Regulation (EU) 2024/1689
-  (EU AI Act). <https://eur-lex.europa.eu/>
+  (EU AI Act). <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai>
 
 ---
 
