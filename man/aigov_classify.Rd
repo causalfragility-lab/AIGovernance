@@ -49,7 +49,7 @@ gov <- aigov_classify(gov, domain = "employment",
 }
 \references{
 European Parliament and Council (2024). Regulation (EU) 2024/1689 (EU AI Act).
-\doi{10.3000/1977091X.L_2024.1689.eng}
+\url{https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai}
 
 NIST (2023). \emph{AI RMF 1.0}. \doi{10.6028/NIST.AI.100-1}
 }
